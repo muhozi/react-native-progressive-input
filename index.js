@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
   StyleSheet,
 } from 'react-native';
-import { Ionicons } from '@expo/vector-icons'; // 6.2.2
+import Ionicons from 'react-native-vector-icons/Ionicons';
 
 class ProgressiveInput extends Component {
   static propTypes = {
